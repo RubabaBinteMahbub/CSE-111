@@ -1,4 +1,4 @@
-## CSE 111 & 112: Object-Oriented Programming (Theory & Lab)
+## CSE 111 & 112: Object-Oriented Programming (Theory course & Lab course)
 
 ​This repository contains all the source code, assignments, and lab projects developed for my university courses: CSE 111 (Object-Oriented Programming) and CSE 112 (Object-Oriented Programming Lab).
 
