@@ -31,3 +31,8 @@ int main()
 
     return 0;
 }
+
+// Input : 1
+// Output : Integer Exc2eption: 100
+// Input : 2
+// Output : Character Exception: A
